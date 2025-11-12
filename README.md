@@ -7,6 +7,10 @@ Objectives
 - Identify key factors influencing churn
 - Build and evaluate classification models
 
+Dataset Information
+- Dataset Used: [Telco Customer Churn Dataset (IBM Sample)](https://www.kaggle.com/blastchar/telco-customer-churn)
+
+
 Tools & Libraries
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Joblib
 
